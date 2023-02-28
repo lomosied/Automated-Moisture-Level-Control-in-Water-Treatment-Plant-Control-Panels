@@ -1,2 +1,3 @@
 # Automated-Moisture-Level-Control-in-Water-Treatment-Plant-Control-Panels
 The purpose of this project is to reduce the moisture content in control panels of water treatment plants which could lead to rusting of the components in the panels while also maintaining optimal temperature for the functioning and extended lifetime of theelectronic components found in the control panels. When moisture content in the panel increases, the system heats up air and runs it through the panel to reduce the content to a more acceptable level. 
+The system was constructed and run on Arduino uno Microcontroller, DHT11 humidity senor, tmp36 temp sensor, 3-channel relay module, 2-12V Dc fans and a 240V AC air heater. 
